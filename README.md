@@ -117,7 +117,7 @@ npm install
 Start the development server:
 
 ```bash
-npm run dev11. Screenshots
+npm run dev
 ```
 
 *(Attach screenshots such as Homepage, Weather Results, Error Messages, and Mobile Views.)*
